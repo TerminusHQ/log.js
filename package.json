@@ -1,7 +1,7 @@
 {
   "name": "@terminus/log",
   "description": "Tiny logger with streaming reader",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "keywords": [
     "log",
@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/visionmedia/log.js.git"
+  },
+  "dependencies": {
+    "colors": "^1.1.2"
   }
 }
